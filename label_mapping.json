@@ -1,0 +1,10 @@
+{
+    "curlup": 0,
+    "fidgeting": 1,
+    "focus": 2,
+    "handup": 3,
+    "run": 4,
+    "standup": 5,
+    "turn-head": 6,
+    "walk": 7
+}
